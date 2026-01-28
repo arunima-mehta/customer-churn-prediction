@@ -2,3 +2,35 @@ Data-Resources
 mlruns/
 dashboard/Images/Flow Diagram.drawio
 dashboard/Images/.$Flow Diagram.drawio.bkp
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Power BI
+*.pbix
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Environment
+.env
+.env.local
+*.env
